@@ -125,7 +125,7 @@ class _HomeScreenState extends State<HomeScreen>
                             text: 'Conta ',
                             children: [
                               TextSpan(
-                                  text: '65949449-4',
+                                  text: '12345678-4',
                                   style:
                                       TextStyle(fontWeight: FontWeight.bold)),
                             ],
@@ -224,7 +224,7 @@ class _HomeScreenState extends State<HomeScreen>
                 ),
                 DotAnimation(controller: _animationController,currentIndex: _currentIndex),
                 SizedBox(
-                  height: 140,
+                  height: 120,
                     child: ListAnimation(controller: _animationController)
                 ),
               ],
