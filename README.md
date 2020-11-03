@@ -15,4 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Image 1](prints/img1.png) ![Image 2](prints/img2.png) ![Image 3](prints/img3.png)
+![Image 1](prints/img1.png) 
+![Image 2](prints/img2.png) 
+![Image 3](prints/img3.png)
