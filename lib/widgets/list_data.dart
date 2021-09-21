@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class ListData extends StatelessWidget {
   final IconData icon;
   final String title;
-
+  // final String text;
   ListData({@required this.icon, @required this.title});
 
   @override
